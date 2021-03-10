@@ -10,3 +10,5 @@ INSERT INTO people VALUES ("test","lTest",9), ("cool","kat",29);
 
 SHOW WARNINGS;
 SELECT * FROM  people;
+
+drop DATABASE test;
